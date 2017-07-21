@@ -2,6 +2,7 @@
 
 [https://scrapy.org/](https://scrapy.org/)
 
+[youtube link](https://www.youtube.com/watch?v=M_vUt-oe1U8)
 
 ### 1. start scrapy project
 
